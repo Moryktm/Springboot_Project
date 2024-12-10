@@ -6,7 +6,7 @@ This application is an insight of how a backend application works with spring bo
 * MariaDB
 * Adminer
 * Postman
-# installing and setting
+# Installing and setting
 To generate a sringboot project: [Spring initilizr](https://start.spring.io/)  
 To install docker: [docker](https://www.docker.com/)  
 To use maria DB and adminer images: [docker hub](https://hub.docker.com/)
